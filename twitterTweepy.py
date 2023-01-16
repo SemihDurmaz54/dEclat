@@ -2,8 +2,8 @@ import tweepy  # https://github.com/tweepy/tweepy
 import csv
 import pandas as pd
 
-consumer_key = ""
-consumer_secret = ""
+consumer_key = " "
+consumer_secret = " "
 access_key = ""
 access_secret = ""
 
