@@ -10,4 +10,4 @@ the scope of the data mining project
 3- Import required libraries and run dEclat.ipynb in Jupyter notebook to see the results of dEclat algorithm.\
 4- Import required libraries and run fpGrowth.ipynb in Jupyter notebook to see the results of fp Growth algorithm.
 
-
+Note: Make sure to change location of folders.
